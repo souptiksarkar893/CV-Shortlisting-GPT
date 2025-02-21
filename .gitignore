@@ -1,0 +1,18 @@
+# Ignore virtual environment
+venv/
+
+# Ignore compiled Python files
+__pycache__/
+
+# Ignore API keys
+config.py
+
+# Ignore processed or temporary files
+processed/
+cv_result.txt
+
+# Ignore PDF resumes (if needed)
+resumes/*.pdf
+
+# Ignore VS Code settings (optional)
+.vscode/

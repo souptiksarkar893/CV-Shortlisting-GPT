@@ -1,0 +1,3 @@
+google-generativeai
+PyMuPDF  # For parsing PDFs
+python-docx  # For parsing DOCX
